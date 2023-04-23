@@ -5,7 +5,11 @@ HELP.md
 build/
 /artifacts
 /data
-
+/gradle
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
 
 ### STS ###
 .apt_generated
